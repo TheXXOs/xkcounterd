@@ -1,1 +1,10 @@
 /* css stuff for stuff */
+@font-face {
+	font-family: "DSG7";
+	src: url('fonts/DSEG7Classic-Regular.woff2') format('woff2'),
+	     url('fonts/DSEG7Classic-Regular.woff') format('woff'),
+		 url('fonts/DSEG7Classic-Regular.ttf') format('truetype');
+}
+p.test {
+	font-family: "DSG7";
+}

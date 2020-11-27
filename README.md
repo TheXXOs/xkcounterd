@@ -8,5 +8,5 @@ I have a bit of a plan (but it's not a full one yet); I'm going to:
  - Display it at [https://thexxos.github.io/xkcounterd/](https://thexxos.github.io/xkcounterd/ "My website: xkcounterd")
 
 ## Credits
-The 7-segment display font I'm going to use [DSEG7](https://github.com/keshikan/DSEG "keshikan/DSEG on Github") by [keshikan](https://github.com/keshikan "keshikan on Github")
-The JavaScript plugin that I will use for graphs is [Chart.js](https://www.chartjs.org/ "Official Chart.js website")
+The 7-segment display font I'm using [DSEG7](https://github.com/keshikan/DSEG "keshikan/DSEG on Github") by [keshikan](https://github.com/keshikan "keshikan on Github")
+The JavaScript addon that I will use for graphs is [Chart.js](https://www.chartjs.org/ "Official Chart.js website")
